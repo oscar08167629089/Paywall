@@ -4,17 +4,17 @@
 
 ## Description
 
-Paywall is a decentralized financial service that allows you to pay all your employees with crypto currency with one click.
+Paywall is a decentralized financial service that allows you to pay all your employees with cryptocurrency with one click.
 
 # Briefly describe your project and its use case.
 
 ## Inspiration
 
-This hackathon inspired this project, though I had long wanted to build something like this since my transit into blockchain development. I learned to use different tech stacks and implement them on the Gnosis blockchain with the development of the Dapp. 
+This hackathon inspired this project, though I had long wanted to build something like this since my transition into blockchain development. I learned to use different tech stacks and implement them on the Gnosis blockchain with the development of the Dapp. 
 
 ## What it does
 
-Paywall is a decentralized financial service that allows you to pay all your employees with cryptocurrency with one click. Each month you don't need to input the information of your employees before you pay them, you only need to click on the pay button and each one of your employees will receive their salary in Gnosis XDai token equivalent to US dollars at that point in time. Paywall is not limited to only paying your employees. You can use Paywall to pay a group of people, Paywall helps you to calculate the amount of xDai tokens you need to send to people, You only need to input the amount which you want to send to each individual in US dollars and Paywall will do the math and send the equivalent to them in XDai token. For instance, this hackathon winners can be paid using Paywall. 
+Paywall is a decentralized financial service that allows you to pay all your employees with cryptocurrency with one click. Each month you don't need to input the information of your employees before you pay them, you only need to click on the pay button and each one of your employees will receive their salary in Gnosis XDai tokens equivalent to US dollars at that point in time. Paywall is not limited to only paying your employees. You can use Paywall to pay a group of people, Paywall helps you to calculate the amount of xDai tokens you need to send to people, You only need to input the amount that you want to send to each individual in US dollars and Paywall will do the math and send the equivalent to them in XDai token. For instance, this hackathon winners can be paid using Paywall. 
 
  
 # Smart Contract
@@ -56,5 +56,5 @@ Paywall is a decentralized financial service that allows you to pay all your emp
 
 - Video: https://youtu.be/iUDBf7er8N4
 
-- Tweet: https://x.com/dev_Paschal/status/1704604284082409732?s=20
+- Tweet: https://twitter.com/oscar_okwuosah/status/1704788018496786671?t=9Mv52wWWN3VlGCtTds_ETw&s=19
  
